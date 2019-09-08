@@ -1,0 +1,5 @@
+- host= slave
+  task
+   name= install tomcat
+    yum= install ansible
+
